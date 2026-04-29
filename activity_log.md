@@ -5,3 +5,4 @@
 - [2026-03-12T09:24:25Z] fix: handle null pointer exception
 - [2026-03-12T20:43:25Z] docs: update README with usage examples
 - [2026-04-29T13:02:48Z] fix: resolve edge case in input validation
+- [2026-04-29T16:45:12Z] style: apply consistent code formatting
